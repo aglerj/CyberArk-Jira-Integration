@@ -41,6 +41,9 @@
     <Reference Include="RestSharp">
       <HintPath>.\RestSharp.dll</HintPath>
     </Reference>
+    <Reference Include="ServiceNow.Api">
+      <HintPath>.\ServiceNow.Api.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
