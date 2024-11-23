@@ -8,6 +8,7 @@ using CyberArk.PasswordVault.PublicInterfaces;
 using Newtonsoft.Json;
 using System.Net.Sockets;
 using Jira.TicketingValidation;
+using ServiceNow.Api;
 
 namespace TicketingValidation
 {
